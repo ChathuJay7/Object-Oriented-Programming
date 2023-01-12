@@ -1,6 +1,6 @@
 # Object-Oriented-Programming
 
-## [1 - Classess and Objects](Classes%20and%20Objects)
+## [1 - Classess and Objects](01%20-%20Classes%20and%20Objects)
   - A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical.
   - An object is an instance of a class. A class is a template or blueprint from which objects are created. So, an object is the instance(result) of a class. 
 ## 2 - Constructors
