@@ -13,3 +13,5 @@
   - Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. 
 ## 6 - Plymorphism
   - Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+## 7 - Super Keyword
+  - Super keyword is a reference variable which is used to refer immediate parent class object
