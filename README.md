@@ -15,3 +15,5 @@
   - Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
 ## 7 - Super Keyword
   - Super keyword is a reference variable which is used to refer immediate parent class object
+## 8 - Method Overloading
+  - Method Overloading allows different methods to have the same name, but different signatures where the signature can differ by the number of input parameters or type of input parameters, or a mixture of both. 
