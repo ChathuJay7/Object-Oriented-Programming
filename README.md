@@ -26,3 +26,5 @@
   - Abstraction is a process of hiding the implementation details and showing only functionality to the user.
   - Abstract class is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class)
   - Abstract method is only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from)
+## 11 - Interface
+  - Method overriding means if a subclass provides the specific implementation of the method that has been declared by one of its parent class. (subclass has the same method as declared in the parent class)
