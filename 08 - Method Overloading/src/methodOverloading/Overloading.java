@@ -7,6 +7,10 @@ public class Overloading {
         System.out.println("Sum = " + (a+b));
     }
     
+    public void sum(float a, float b){
+        System.out.println("Sum = " + (a+b));
+    }
+    
     public void sum(int a, int b, int c){
         System.out.println("Sum = " + (a+b+c));
     }

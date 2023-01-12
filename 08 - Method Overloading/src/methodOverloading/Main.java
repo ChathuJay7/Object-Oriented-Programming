@@ -7,6 +7,7 @@ public class Main {
         
         Overloading overloading = new Overloading();
         overloading.sum(10,20);
+        overloading.sum(13.2f,5.3f);
         overloading.sum(10,20,30);
     }
     
